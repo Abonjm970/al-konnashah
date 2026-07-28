@@ -1,0 +1,26 @@
+# أسرار البيئة
+.env
+
+# قاعدة البيانات
+*.db
+
+# جلسات Pyrogram
+*.session
+*.session-journal
+forwarder_bot.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# agents
+.agents/
+site/
+skills-lock.json
+
+# ملفات اخرى
+BOT_OVERVIEW.md
+test_plan.md
+orihost backup token.txt
+alkonnashah.zip
