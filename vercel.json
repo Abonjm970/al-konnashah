@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/webhook", "destination": "/api/index" },
+    { "source": "/", "destination": "/api/index" }
+  ]
+}

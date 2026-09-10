@@ -4,10 +4,11 @@
 # قاعدة البيانات
 *.db
 
-# جلسات Pyrogram
-*.session
-*.session-journal
+# السجلات
 forwarder_bot.log
+
+# Vercel
+.vercel/
 
 # Python
 __pycache__/
@@ -25,3 +26,4 @@ test_plan.md
 orihost backup token.txt
 alkonnashah.zip
 .gitignore
+.opencode/
